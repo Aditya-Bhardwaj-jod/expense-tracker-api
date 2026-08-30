@@ -17,7 +17,7 @@ A REST API for tracking personal expenses, built with Node.js and Express. Data 
 
 The project follows a layered, separation-of-concerns structure:
 
-- **Routes** — define endpoints only, no logic
+- **Routes** — define endpoints only, no logicV
 - **Controllers** — receive the request, call the service layer, shape the response
 - **Services** — business logic (validation of business rules, calculations, orchestrating storage)
 - **Utils** — reusable helpers (file storage, calculations)
