@@ -1,4 +1,4 @@
-# Smart Expense Tracker API
+ # Smart Expense Tracker API
 
 A REST API for tracking personal expenses, built with Node.js and Express. Data is persisted to a local JSON file — no database required.
 
