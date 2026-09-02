@@ -13,7 +13,7 @@ A REST API for tracking personal expenses, built with Node.js and Express. Data 
 - Centralized error handling with a consistent response shape
 - Interactive API documentation via Swagger UI
 
-## Architecture
+## Architecture 
 
 The project follows a layered, separation-of-concerns structure:
 
