@@ -8,7 +8,7 @@ A REST API for tracking personal expenses, built with Node.js and Express. Data 
 - View all expenses
 - Filter expenses by category
 - Get total expenses (overall, or scoped to a category)
-- Delete an expense
+- Delete an expense 
 - Input validation with descriptive error messages
 - Centralized error handling with a consistent response shape
 - Interactive API documentation via Swagger UI
