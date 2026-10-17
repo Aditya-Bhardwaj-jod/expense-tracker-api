@@ -2,7 +2,7 @@
 
 A REST API for tracking personal expenses, built with Node.js and Express. Data is persisted to a local JSON file — no database required.
 
-## Features
+## Features 
 
 - Add an expense (`title`, `amount`, `category`, `date`)
 - View all expenses
